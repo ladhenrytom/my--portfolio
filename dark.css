@@ -1,0 +1,16 @@
+:root {
+  --bg--black--900: #f2f2fc;
+  --bg--black--100: #fdf9ff;
+  --bg--black--500: #e8dfec;
+  --txt--black--900: #302e4d;
+  --txt--black--700: #363457;
+  --txt--black--500: #504e70;
+}
+body.dark {
+  --txt--black--900: #f2f2fc;
+  --txt--black--700: #fdf9ff;
+  --txt--black--500: #e8dfec;
+  --bg--black--900: #302e4d;
+  --bg--black--100: #363457;
+  --bg--black--500: #504e70;
+}
