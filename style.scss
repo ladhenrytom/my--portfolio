@@ -597,6 +597,9 @@ ul {
     flex: 0 0 31.33%;
     max-width: 33.33%;
     margin: 0 10px 30px 10px;
+    &:hover{
+      transform: scale(1.2);
+    }
     .portfolio--item__inner {
       border: 6px solid $bgBlack100;
       border-radius: 10px;
